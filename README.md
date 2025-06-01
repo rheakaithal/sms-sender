@@ -7,4 +7,4 @@ npm install express dotenv twilio
 
 # deployed
 Deployed on Render 
-https://sms-sender-ems8.onrender.com
+https://sms-sender-b7ry.onrender.com
